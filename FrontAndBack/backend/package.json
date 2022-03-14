@@ -1,0 +1,17 @@
+{
+  "name": "my-express",
+  "version": "1.0.0",
+  "description": "My Express App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Sagar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "cros": "^1.0.1",
+    "express": "^4.17.3"
+  }
+}
